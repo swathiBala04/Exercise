@@ -7,7 +7,6 @@ Theatre(String movieName, int movie_time){
 this.movieName = movieName;
 this.movie_time = movie_time;
 }
-
 public static void main(String args[]){
 Theatre movie1 = new Theatre("Jailer",630);
 Theatre movie2 = new Theatre("Leo",7);
